@@ -1,0 +1,11 @@
+# Data & Documentation #
+###################
+/Data
+
+# gedit Backup Files #
+###################
+*~
+
+# Jupyter Notebook Checkpoints #
+###################
+*.ipynb_checkpoints
