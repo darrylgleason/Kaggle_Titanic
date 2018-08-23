@@ -2,5 +2,5 @@ This work is used to create a submission for the "Titanic: Machine Learning from
 
 The data is imported, cleaned, and processed before a logistic regression model is used to make predictions. The method's hyperparameters are chosen using grid- and randomized-searches with cross-validation.
 
-Per the Kaggle evaluation details: "Your score is the percentage of passengers you correctly predict." Upon submission, the passenger survival predicted by this model received a score of approximately 0.76. As of 2018-08-19, the fiftieth-place score is approximately 0.91.
+Per the Kaggle evaluation details: "Your score is the percentage of passengers you correctly predict." Upon submission, the passenger survival predicted by this model received a score of approximately 0.75. As of 2018-08-19, the fiftieth-place score is approximately 0.91.
 
